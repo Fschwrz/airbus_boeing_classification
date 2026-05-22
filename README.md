@@ -11,8 +11,8 @@ https://www.dropbox.com/scl/fi/azhvpaajau4l9oc7has6h/rear_model.keras?rlkey=rf57
 
 https://www.dropbox.com/scl/fi/pi42xk5c6n5bw58ns8dzl/twin_model.keras?rlkey=120j3g0yl7x1nig67dqqau32w&st=ooha1ovh&dl=0
 
-#How to use
+# How to use
 For usage, put evaluate_model.py in the same directory as the models and change the FILE_PATH parameter in evaluate_model.py to the file path of the image you want to classify
 
-#The training process
+# The training process
 The jupyter notebook airplane_classification_with_pre_processing.ipynb is what I used to train the model, use at your own risk, it may not be easy to read.
